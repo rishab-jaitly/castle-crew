@@ -1,0 +1,33 @@
+Cassle Crew website image assets
+
+Logo: assets/images/logo/cassle-crew-mark.png
+Product images included: 28
+
+assets/images/products/bar-handles-01.jpg
+assets/images/products/bar-handles-02.jpg
+assets/images/products/cabinet-knobs-dark-02.jpg
+assets/images/products/cabinet-knobs-mix-01.jpg
+assets/images/products/cabinet-knobs-ring-01.jpg
+assets/images/products/cabinet-knobs-square-01.jpg
+assets/images/products/cabinet-knobs-textured-01.jpg
+assets/images/products/concealed-hinges-01.jpeg
+assets/images/products/decorative-knobs-01.jpg
+assets/images/products/decorative-knobs-02.jpg
+assets/images/products/decorative-knobs-03.jpg
+assets/images/products/door-handle-02.jpg
+assets/images/products/door-handle-03.jpg
+assets/images/products/door-handle-04.jpg
+assets/images/products/door-handle-set-01.jpg
+assets/images/products/knobs-dark-01.jpg
+assets/images/products/knobs-decorative-04.jpg
+assets/images/products/knobs-gold-black-01.jpg
+assets/images/products/knobs-metallic-01.jpg
+assets/images/products/knobs-round-01.jpg
+assets/images/products/long-pulls-01.jpg
+assets/images/products/ornate-door-handle-01.jpg
+assets/images/products/wardrobe-accessory-01.jpg
+assets/images/products/wardrobe-drawer-01.jpg
+assets/images/products/wardrobe-drawer-02.jpg
+assets/images/products/wardrobe-hanger-01.jpg
+assets/images/products/wardrobe-shoe-01.jpg
+assets/images/products/wardrobe-trouser-01.jpg
