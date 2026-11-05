@@ -19,3 +19,13 @@
 /* PDF image fidelity: show the whole image, do not zoom/crop category products. */
 .product-media img,.detail-main-image img,.category-card .media img{object-fit:contain!important;object-position:center!important;mix-blend-mode:normal!important}
 .product-media,.detail-main-image,.category-card .media{background:#e9e7e2!important}
+
+/* Product specifications from the May 2026 catalogue */
+.product-specs{border-top:1px solid var(--line);margin:28px 0 30px;padding-top:24px}
+.product-specs h2{font-family:var(--serif);font-weight:400;font-size:clamp(1.5rem,2.2vw,2rem);margin:0 0 18px}
+.spec-grid{margin:0;display:grid;gap:0}
+.spec-row{display:grid;grid-template-columns:minmax(115px,36%) 1fr;gap:16px;padding:12px 0;border-bottom:1px solid var(--line)}
+.spec-row dt{font-size:.78rem;font-weight:700;color:var(--muted)}
+.spec-row dd{margin:0;font-size:.88rem;line-height:1.6;color:var(--ink);overflow-wrap:anywhere}
+.spec-unavailable{padding:18px 0;border-top:1px solid var(--line);color:var(--muted);font-size:.86rem}
+@media(max-width:480px){.spec-row{grid-template-columns:1fr;gap:3px;padding:10px 0}}

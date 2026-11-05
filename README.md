@@ -41,3 +41,28 @@ Featured products on the homepage now link to active product IDs from `assets/js
 
 ### Technical drawing cleanup
 Removed 25 dimensioned profile/cross-section illustrations from the product catalogue. Product photographs and applicable hardware imagery remain. The excluded drawing images are not included in this ZIP.
+
+
+## Product specifications (May 2026 catalogue)
+
+Product detail pages present only specifications transcribed from the user-supplied May 2026 PDF catalogue. Prices/MRP are intentionally omitted. Some photographs do not include clear labels or unique specifications; those product pages do not invent missing fields. The Knobs category includes previously supplied imagery without PDF-verified specifications.
+
+
+## November 2026 catalogue refinements
+- Home category Kitchen Accessories replaces Pantry Pull-Out, main card photograph is third original pantry image.
+- Wooden Kitchen Series remains in the full catalogue but is omitted from homepage category cards.
+- Hinges, Drawer Runner and Digital Door Locks category labels updated.
+- Removed Quadro / Full-Extension Slides, Kitchen & Cabinet Accessories and Knobs categories.
+- Digital Door Locks contains six models only.
+- Brass Pull Handles uses printed catalogue pages 47–48 (PDF pages 51–52); Pull Handles uses printed pages 49–51 (PDF pages 53–55) with non-handle CC-605 premium leg omitted.
+- Wardrobe Series category card uses user-provided photography.
+- Prices and MRP are intentionally not shown.
+
+
+## Latest catalogue changes (November 2026)
+
+- Drawer Runner category image: first listed Drawer Runner product.
+- Brass Pull Handles: exactly 7 products (printed catalogue pages 47–48 / PDF pages 51–52).
+- Pull Handles: exactly 9 products (printed catalogue pages 49–51 / PDF pages 53–55), including CC-605 in PVD Rose Gold.
+- Handle images recropped from those product entries in the official PDF.
+- Product prices are intentionally excluded.

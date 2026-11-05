@@ -1,1156 +1,1072 @@
-/* Cassle Crew product catalogue and category definitions. */
+/* Product specifications from Cassle Crew May 2026 catalogue. Prices intentionally omitted. */
 window.CASSLE_PRODUCTS = [
   {
     "id": "catalogue-p05-01",
-    "name": "Universal Magic Corner",
-    "category": "Pantry Pull-Out",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "name": "Bottle Pull-Out — Enthra Grey Aluminium",
+    "category": "Kitchen Accessories",
+    "description": "Pull-out kitchen storage hardware, Enthra Grey Aluminium finish.",
     "image": "assets/images/products/catalogue-p05-01.jpg",
-    "alt": "Universal Magic Corner",
-    "categorySlug": "pantry-pull-out"
+    "alt": "Bottle Pull-Out — Enthra Grey Aluminium",
+    "categorySlug": "kitchen-accessories",
+    "specifications": {
+      "Finish": "Enthra Grey Aluminium",
+      "Type": "Soft Close"
+    }
   },
   {
     "id": "catalogue-p05-02",
-    "name": "Bottle Pull-Out",
-    "category": "Pantry Pull-Out",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "name": "Universal Magic Corner — Enthra Grey Aluminium",
+    "category": "Kitchen Accessories",
+    "description": "Corner kitchen storage hardware, Enthra Grey Aluminium finish.",
     "image": "assets/images/products/catalogue-p05-02.jpg",
-    "alt": "Bottle Pull-Out",
-    "categorySlug": "pantry-pull-out"
+    "alt": "Universal Magic Corner — Enthra Grey Aluminium",
+    "categorySlug": "kitchen-accessories",
+    "specifications": {
+      "Finish": "Enthra Grey Aluminium",
+      "Type": "Soft Close"
+    }
   },
   {
     "id": "catalogue-p06-01",
-    "name": "Pantry Pull-Out — 12 Baskets",
-    "category": "Pantry Pull-Out",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "name": "Pantry Pull-Out — Enthra Grey Aluminium",
+    "category": "Kitchen Accessories",
+    "description": "Twelve-basket tall pantry pull-out.",
     "image": "assets/images/products/catalogue-p06-01.jpg",
-    "alt": "Pantry Pull-Out — 12 Baskets",
-    "categorySlug": "pantry-pull-out"
-  },
-  {
-    "id": "catalogue-p06-02",
-    "name": "Pantry Pull-Out — Design 2",
-    "category": "Pantry Pull-Out",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
-    "image": "assets/images/products/catalogue-p06-02.jpg",
-    "alt": "Pantry Pull-Out — Design 2",
-    "categorySlug": "pantry-pull-out"
+    "alt": "Pantry Pull-Out — Enthra Grey Aluminium",
+    "categorySlug": "kitchen-accessories",
+    "specifications": {
+      "Description": "Twelve-basket tall pantry pull-out.",
+      "Finish": "Enthra Grey Aluminium",
+      "Type": "Soft Close",
+      "Baskets": "12",
+      "Carcass size": "450, 600 mm"
+    }
   },
   {
     "id": "catalogue-p07-01",
-    "name": "Universal Magic Corner — Corner System",
-    "category": "Pantry Pull-Out",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "name": "Universal Magic Corner — Iron Champagne Glass",
+    "category": "Kitchen Accessories",
+    "description": "Four-basket corner organizer.",
     "image": "assets/images/products/catalogue-p07-01.jpg",
-    "alt": "Universal Magic Corner — Corner System",
-    "categorySlug": "pantry-pull-out"
+    "alt": "Universal Magic Corner — Iron Champagne Glass",
+    "categorySlug": "kitchen-accessories",
+    "specifications": {
+      "Description": "Four-basket corner organizer.",
+      "Finish": "Iron Champagne Glass",
+      "Type": "Soft Close",
+      "Baskets": "4"
+    }
   },
   {
     "id": "catalogue-p07-02",
-    "name": "Bottle Pull-Out — Wire Basket",
-    "category": "Pantry Pull-Out",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "name": "Bottle Pull-Out — Iron Champagne Glass",
+    "category": "Kitchen Accessories",
+    "description": "Two-basket bottle organizer.",
     "image": "assets/images/products/catalogue-p07-02.jpg",
-    "alt": "Bottle Pull-Out — Wire Basket",
-    "categorySlug": "pantry-pull-out"
+    "alt": "Bottle Pull-Out — Iron Champagne Glass",
+    "categorySlug": "kitchen-accessories",
+    "specifications": {
+      "Description": "Two-basket bottle organizer.",
+      "Finish": "Iron Champagne Glass",
+      "Type": "Soft Close",
+      "Baskets": "2",
+      "Carcass size": "200, 250, 300 mm"
+    }
   },
   {
     "id": "catalogue-p08-01",
-    "name": "Tall Pantry Pull-Out",
-    "category": "Pantry Pull-Out",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "name": "Pantry Pull-Out — Iron Champagne Glass",
+    "category": "Kitchen Accessories",
+    "description": "Twelve-basket tall pantry pull-out.",
     "image": "assets/images/products/catalogue-p08-01.jpg",
-    "alt": "Tall Pantry Pull-Out",
-    "categorySlug": "pantry-pull-out"
+    "alt": "Pantry Pull-Out — Iron Champagne Glass",
+    "categorySlug": "kitchen-accessories",
+    "specifications": {
+      "Description": "Twelve-basket tall pantry pull-out.",
+      "Finish": "Iron Champagne Glass",
+      "Type": "Soft Close",
+      "Baskets": "12",
+      "Carcass size": "450, 600 mm"
+    }
   },
   {
     "id": "catalogue-p13-01",
     "name": "Heavy Double Lift-Up",
-    "category": "Pantry Pull-Out",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "category": "Kitchen Accessories",
+    "description": "Cabinet lift for a double door, with cabinet hinges and a connected hinge system.",
     "image": "assets/images/products/catalogue-p13-01.jpg",
     "alt": "Heavy Double Lift-Up",
-    "categorySlug": "pantry-pull-out"
+    "categorySlug": "kitchen-accessories",
+    "specifications": {
+      "Description": "Cabinet lift for a double door, with cabinet hinges and a connected hinge system.",
+      "Carcass size": "KH1040 mm; KH1200 mm",
+      "Weight range": "8.07–11.53 kg; 12.00–17.00 kg"
+    }
   },
   {
     "id": "catalogue-p14-01",
-    "name": "Pantry Pull-Out",
-    "category": "Pantry Pull-Out",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "name": "Wooden Kitchen Pantry Pull-Out",
+    "category": "Kitchen Accessories",
+    "description": "Twelve-basket pantry pull-out in the wooden kitchen series.",
     "image": "assets/images/products/catalogue-p14-01.jpg",
-    "alt": "Pantry Pull-Out",
-    "categorySlug": "pantry-pull-out"
+    "alt": "Wooden Kitchen Pantry Pull-Out",
+    "categorySlug": "kitchen-accessories",
+    "specifications": {
+      "Description": "Twelve-basket pantry pull-out in the wooden kitchen series.",
+      "Finish": "Wooden Grey",
+      "Type": "Soft Close",
+      "Baskets": "12",
+      "Carcass size": "450, 600 mm"
+    }
   },
   {
     "id": "catalogue-p14-02",
-    "name": "Bottle Pull-Out",
-    "category": "Pantry Pull-Out",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "name": "Wooden Kitchen Bottle Pull-Out",
+    "category": "Kitchen Accessories",
+    "description": "Two-basket bottle pull-out.",
     "image": "assets/images/products/catalogue-p14-02.jpg",
-    "alt": "Bottle Pull-Out",
-    "categorySlug": "pantry-pull-out"
+    "alt": "Wooden Kitchen Bottle Pull-Out",
+    "categorySlug": "kitchen-accessories",
+    "specifications": {
+      "Description": "Two-basket bottle pull-out.",
+      "Finish": "Wooden Grey",
+      "Type": "Soft Close",
+      "Baskets": "2",
+      "Carcass size": "200, 250, 300 mm"
+    }
   },
   {
     "id": "catalogue-p16-01",
-    "name": "Bottle Pull-Out",
-    "category": "Pantry Pull-Out",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "name": "Bottle Pull-Out — Smokey Grey",
+    "category": "Kitchen Accessories",
+    "description": "Kitchen bottle pull-out.",
     "image": "assets/images/products/catalogue-p16-01.jpg",
-    "alt": "Bottle Pull-Out",
-    "categorySlug": "pantry-pull-out"
+    "alt": "Bottle Pull-Out — Smokey Grey",
+    "categorySlug": "kitchen-accessories",
+    "specifications": {
+      "Description": "Kitchen bottle pull-out.",
+      "Finish": "Smokey Grey",
+      "Size": "200, 250, 300, 450 mm"
+    }
   },
   {
     "id": "catalogue-p17-01",
-    "name": "Pantry Pull-Out",
-    "category": "Pantry Pull-Out",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "name": "Pantry Pull-Out — Smokey Grey",
+    "category": "Kitchen Accessories",
+    "description": "Kitchen pantry pull-out.",
     "image": "assets/images/products/catalogue-p17-01.jpg",
-    "alt": "Pantry Pull-Out",
-    "categorySlug": "pantry-pull-out"
+    "alt": "Pantry Pull-Out — Smokey Grey",
+    "categorySlug": "kitchen-accessories",
+    "specifications": {
+      "Description": "Kitchen pantry pull-out.",
+      "Finish": "Smokey Grey",
+      "Size": "450, 600 mm"
+    }
   },
   {
     "id": "catalogue-p17-02",
     "name": "Pantry Pull-Out — Design 3",
-    "category": "Pantry Pull-Out",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "category": "Kitchen Accessories",
+    "description": "",
     "image": "assets/images/products/catalogue-p17-02.jpg",
     "alt": "Pantry Pull-Out — Design 3",
-    "categorySlug": "pantry-pull-out"
+    "categorySlug": "kitchen-accessories",
+    "specifications": {}
   },
   {
     "id": "catalogue-p18-01",
-    "name": "Universal Magic Corner",
-    "category": "Pantry Pull-Out",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "name": "Universal Magic Corner — Smokey Grey",
+    "category": "Kitchen Accessories",
+    "description": "Kitchen corner storage solution.",
     "image": "assets/images/products/catalogue-p18-01.jpg",
-    "alt": "Universal Magic Corner",
-    "categorySlug": "pantry-pull-out"
+    "alt": "Universal Magic Corner — Smokey Grey",
+    "categorySlug": "kitchen-accessories",
+    "specifications": {
+      "Description": "Kitchen corner storage solution.",
+      "Finish": "Smokey Grey",
+      "Type": "Soft Close"
+    }
   },
   {
     "id": "catalogue-p19-01",
     "name": "Corner Pantry Storage",
-    "category": "Pantry Pull-Out",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "category": "Kitchen Accessories",
+    "description": "",
     "image": "assets/images/products/catalogue-p19-01.jpg",
     "alt": "Corner Pantry Storage",
-    "categorySlug": "pantry-pull-out"
+    "categorySlug": "kitchen-accessories",
+    "specifications": {}
   },
   {
     "id": "catalogue-p20-01",
-    "name": "Tall Kitchen Unit",
-    "category": "Pantry Pull-Out",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "name": "Tall Unit — Smokey Grey",
+    "category": "Kitchen Accessories",
+    "description": "Tall kitchen storage unit.",
     "image": "assets/images/products/catalogue-p20-01.jpg",
-    "alt": "Tall Kitchen Unit",
-    "categorySlug": "pantry-pull-out"
+    "alt": "Tall Unit — Smokey Grey",
+    "categorySlug": "kitchen-accessories",
+    "specifications": {
+      "Description": "Tall kitchen storage unit.",
+      "Finish": "Smokey Grey",
+      "Type": "Soft Close",
+      "Size": "400 mm"
+    }
   },
   {
     "id": "catalogue-p04-01",
     "name": "Wooden Kitchen Bottle Storage",
     "category": "Wooden Kitchen Series",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "description": "",
     "image": "assets/images/products/catalogue-p04-01.jpg",
     "alt": "Wooden Kitchen Bottle Storage",
-    "categorySlug": "wooden-kitchen-series"
+    "categorySlug": "wooden-kitchen-series",
+    "specifications": {}
   },
   {
     "id": "catalogue-p15-01",
-    "name": "Universal Magic Corner",
+    "name": "Universal Magic Corner — Wooden Grey",
     "category": "Wooden Kitchen Series",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "description": "Four-basket magic corner organizer.",
     "image": "assets/images/products/catalogue-p15-01.jpg",
-    "alt": "Universal Magic Corner",
-    "categorySlug": "wooden-kitchen-series"
+    "alt": "Universal Magic Corner — Wooden Grey",
+    "categorySlug": "wooden-kitchen-series",
+    "specifications": {
+      "Description": "Four-basket magic corner organizer.",
+      "Finish": "Wooden Grey",
+      "Type": "Soft Close",
+      "Baskets": "4"
+    }
   },
   {
     "id": "catalogue-p15-02",
     "name": "Wooden Lifter",
     "category": "Wooden Kitchen Series",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "description": "Two-basket wooden lifter.",
     "image": "assets/images/products/catalogue-p15-02.jpg",
     "alt": "Wooden Lifter",
-    "categorySlug": "wooden-kitchen-series"
+    "categorySlug": "wooden-kitchen-series",
+    "specifications": {
+      "Description": "Two-basket wooden lifter.",
+      "Finish": "Wooden Grey",
+      "Type": "Soft Close",
+      "Baskets": "2",
+      "Carcass size": "900 mm"
+    }
   },
   {
     "id": "catalogue-p15-03",
     "name": "Wooden Kitchen Series — Design 3",
     "category": "Wooden Kitchen Series",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "description": "",
     "image": "assets/images/products/catalogue-p15-03.jpg",
     "alt": "Wooden Kitchen Series — Design 3",
-    "categorySlug": "wooden-kitchen-series"
+    "categorySlug": "wooden-kitchen-series",
+    "specifications": {}
   },
   {
     "id": "catalogue-p15-04",
     "name": "Wooden Kitchen Series — Design 4",
     "category": "Wooden Kitchen Series",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "description": "",
     "image": "assets/images/products/catalogue-p15-04.jpg",
     "alt": "Wooden Kitchen Series — Design 4",
-    "categorySlug": "wooden-kitchen-series"
+    "categorySlug": "wooden-kitchen-series",
+    "specifications": {}
   },
   {
     "id": "catalogue-p09-01",
     "name": "G1209 Digital Lock",
-    "category": "Door Hardware & Locks",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "category": "Digital Door Locks",
+    "description": "Electronic digital door lock with multiple access methods.",
     "image": "assets/images/products/catalogue-p09-01.jpg",
     "alt": "G1209 Digital Lock",
-    "categorySlug": "door-hardware-locks"
+    "categorySlug": "digital-door-locks",
+    "specifications": {
+      "Description": "Electronic digital door lock with multiple access methods.",
+      "Material": "Aluminium Alloy",
+      "Mortise": "6068",
+      "Functions": "Wi-Fi, video intercom camera, face recognition, fingerprint, password, card and key",
+      "Power supply": "4200 mAh lithium battery",
+      "Finish": "Black",
+      "Door thickness": "40 mm",
+      "Door material": "Wood"
+    }
   },
   {
     "id": "catalogue-p10-01",
-    "name": "D019 Digital Lock",
-    "category": "Door Hardware & Locks",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "name": "D109 Digital Lock",
+    "category": "Digital Door Locks",
+    "description": "Electronic digital door lock with multiple access methods.",
     "image": "assets/images/products/catalogue-p10-01.jpg",
-    "alt": "D019 Digital Lock",
-    "categorySlug": "door-hardware-locks"
+    "alt": "D109 Digital Lock",
+    "categorySlug": "digital-door-locks",
+    "specifications": {
+      "Description": "Electronic digital door lock with multiple access methods.",
+      "Material": "Space Aluminium",
+      "Mortise": "BW6068",
+      "Functions": "Wi-Fi, video intercom camera (triple), palm vein, face recognition, fingerprint, password, card and key",
+      "Power supply": "6000 mAh lithium battery",
+      "Finish": "Black",
+      "Door thickness": "40 mm",
+      "Door material": "Wood"
+    }
   },
   {
     "id": "catalogue-p10-02",
-    "name": "A03 Digital Lock",
-    "category": "Door Hardware & Locks",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "name": "A039 Digital Lock",
+    "category": "Digital Door Locks",
+    "description": "Electronic digital door lock with multiple access methods.",
     "image": "assets/images/products/catalogue-p10-02.jpg",
-    "alt": "A03 Digital Lock",
-    "categorySlug": "door-hardware-locks"
+    "alt": "A039 Digital Lock",
+    "categorySlug": "digital-door-locks",
+    "specifications": {
+      "Description": "Electronic digital door lock with multiple access methods.",
+      "Functions": "Wi-Fi, voice command, video intercom, camera, palm vein, face recognition, fingerprint, password and card key",
+      "Power supply": "6000 mAh lithium battery",
+      "Finish": "Black",
+      "Door thickness": "40 mm",
+      "Door material": "Wood"
+    }
   },
   {
     "id": "catalogue-p11-01",
-    "name": "UT5 Digital Lock",
-    "category": "Door Hardware & Locks",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "name": "U15 Digital Lock",
+    "category": "Digital Door Locks",
+    "description": "Electronic digital door lock with multiple access methods.",
     "image": "assets/images/products/catalogue-p11-01.jpg",
-    "alt": "UT5 Digital Lock",
-    "categorySlug": "door-hardware-locks"
+    "alt": "U15 Digital Lock",
+    "categorySlug": "digital-door-locks",
+    "specifications": {
+      "Description": "Electronic digital door lock with multiple access methods.",
+      "Functions": "Wi-Fi, fingerprint, password, card and key",
+      "Power supply": "AA alkaline batteries",
+      "Finish": "Black",
+      "Door thickness": "40 mm",
+      "Door material": "Wood"
+    }
   },
   {
     "id": "catalogue-p11-02",
     "name": "F19 Digital Lock",
-    "category": "Door Hardware & Locks",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "category": "Digital Door Locks",
+    "description": "Electronic digital door lock with multiple access methods.",
     "image": "assets/images/products/catalogue-p11-02.jpg",
     "alt": "F19 Digital Lock",
-    "categorySlug": "door-hardware-locks"
+    "categorySlug": "digital-door-locks",
+    "specifications": {
+      "Description": "Electronic digital door lock with multiple access methods.",
+      "Functions": "Wi-Fi, fingerprint, password, card and key",
+      "Power supply": "AA alkaline batteries",
+      "Finish": "Black",
+      "Door thickness": "40 mm",
+      "Door material": "Wood"
+    }
   },
   {
     "id": "catalogue-p12-01",
     "name": "S901 Digital Lock",
-    "category": "Door Hardware & Locks",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "category": "Digital Door Locks",
+    "description": "Electronic digital door lock with multiple access methods.",
     "image": "assets/images/products/catalogue-p12-01.jpg",
     "alt": "S901 Digital Lock",
-    "categorySlug": "door-hardware-locks"
-  },
-  {
-    "id": "catalogue-p46-01",
-    "name": "Door Hardware & Locks — Design 1",
-    "category": "Door Hardware & Locks",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
-    "image": "assets/images/products/catalogue-p46-01.jpg",
-    "alt": "Door Hardware & Locks — Design 1",
-    "categorySlug": "door-hardware-locks"
-  },
-  {
-    "id": "catalogue-p46-02",
-    "name": "Door Hardware & Locks — Design 2",
-    "category": "Door Hardware & Locks",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
-    "image": "assets/images/products/catalogue-p46-02.jpg",
-    "alt": "Door Hardware & Locks — Design 2",
-    "categorySlug": "door-hardware-locks"
-  },
-  {
-    "id": "catalogue-p46-03",
-    "name": "Door Hardware & Locks — Design 3",
-    "category": "Door Hardware & Locks",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
-    "image": "assets/images/products/catalogue-p46-03.jpg",
-    "alt": "Door Hardware & Locks — Design 3",
-    "categorySlug": "door-hardware-locks"
-  },
-  {
-    "id": "catalogue-p46-04",
-    "name": "Door Hardware & Locks — Design 4",
-    "category": "Door Hardware & Locks",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
-    "image": "assets/images/products/catalogue-p46-04.jpg",
-    "alt": "Door Hardware & Locks — Design 4",
-    "categorySlug": "door-hardware-locks"
-  },
-  {
-    "id": "catalogue-p47-01",
-    "name": "Door Hardware & Locks — Design 5",
-    "category": "Door Hardware & Locks",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
-    "image": "assets/images/products/catalogue-p47-01.jpg",
-    "alt": "Door Hardware & Locks — Design 5",
-    "categorySlug": "door-hardware-locks"
-  },
-  {
-    "id": "catalogue-p47-02",
-    "name": "Door Hardware & Locks — Design 6",
-    "category": "Door Hardware & Locks",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
-    "image": "assets/images/products/catalogue-p47-02.jpg",
-    "alt": "Door Hardware & Locks — Design 6",
-    "categorySlug": "door-hardware-locks"
-  },
-  {
-    "id": "catalogue-p47-03",
-    "name": "Door Hardware & Locks — Design 7",
-    "category": "Door Hardware & Locks",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
-    "image": "assets/images/products/catalogue-p47-03.jpg",
-    "alt": "Door Hardware & Locks — Design 7",
-    "categorySlug": "door-hardware-locks"
-  },
-  {
-    "id": "catalogue-p48-01",
-    "name": "Door Hardware & Locks — Design 8",
-    "category": "Door Hardware & Locks",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
-    "image": "assets/images/products/catalogue-p48-01.jpg",
-    "alt": "Door Hardware & Locks — Design 8",
-    "categorySlug": "door-hardware-locks"
-  },
-  {
-    "id": "catalogue-p48-02",
-    "name": "Door Hardware & Locks — Design 9",
-    "category": "Door Hardware & Locks",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
-    "image": "assets/images/products/catalogue-p48-02.jpg",
-    "alt": "Door Hardware & Locks — Design 9",
-    "categorySlug": "door-hardware-locks"
-  },
-  {
-    "id": "catalogue-p48-03",
-    "name": "Door Hardware & Locks — Design 10",
-    "category": "Door Hardware & Locks",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
-    "image": "assets/images/products/catalogue-p48-03.jpg",
-    "alt": "Door Hardware & Locks — Design 10",
-    "categorySlug": "door-hardware-locks"
-  },
-  {
-    "id": "catalogue-p49-01",
-    "name": "Door Hardware & Locks — Design 11",
-    "category": "Door Hardware & Locks",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
-    "image": "assets/images/products/catalogue-p49-01.jpg",
-    "alt": "Door Hardware & Locks — Design 11",
-    "categorySlug": "door-hardware-locks"
-  },
-  {
-    "id": "catalogue-p49-02",
-    "name": "Door Hardware & Locks — Design 12",
-    "category": "Door Hardware & Locks",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
-    "image": "assets/images/products/catalogue-p49-02.jpg",
-    "alt": "Door Hardware & Locks — Design 12",
-    "categorySlug": "door-hardware-locks"
-  },
-  {
-    "id": "catalogue-p49-03",
-    "name": "Door Hardware & Locks — Design 13",
-    "category": "Door Hardware & Locks",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
-    "image": "assets/images/products/catalogue-p49-03.jpg",
-    "alt": "Door Hardware & Locks — Design 13",
-    "categorySlug": "door-hardware-locks"
-  },
-  {
-    "id": "catalogue-p49-04",
-    "name": "Door Hardware & Locks — Design 14",
-    "category": "Door Hardware & Locks",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
-    "image": "assets/images/products/catalogue-p49-04.jpg",
-    "alt": "Door Hardware & Locks — Design 14",
-    "categorySlug": "door-hardware-locks"
-  },
-  {
-    "id": "catalogue-p50-01",
-    "name": "Door Hardware & Locks — Design 15",
-    "category": "Door Hardware & Locks",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
-    "image": "assets/images/products/catalogue-p50-01.jpg",
-    "alt": "Door Hardware & Locks — Design 15",
-    "categorySlug": "door-hardware-locks"
+    "categorySlug": "digital-door-locks",
+    "specifications": {
+      "Description": "Electronic digital door lock with multiple access methods.",
+      "Functions": "Wi-Fi, fingerprint, password, card and key",
+      "Power supply": "AA alkaline batteries"
+    }
   },
   {
     "id": "catalogue-p21-01",
-    "name": "Wardrobe Series — Design 1",
+    "name": "Leather Jewellery Box",
     "category": "Wardrobe Series",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "description": "50 mm adjustable width",
     "image": "assets/images/products/catalogue-p21-01.jpg",
-    "alt": "Wardrobe Series — Design 1",
-    "categorySlug": "wardrobe-series"
+    "alt": "Leather Jewellery Box",
+    "categorySlug": "wardrobe-series",
+    "specifications": {
+      "Description": "50 mm adjustable width",
+      "Finish": "Mocha",
+      "Type": "Soft Close",
+      "Carcass size": "900 mm",
+      "Dimensions": "864 × 465 × 76 mm"
+    }
   },
   {
     "id": "catalogue-p21-02",
-    "name": "Wardrobe Series — Design 2",
+    "name": "Trousers Pullout",
     "category": "Wardrobe Series",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "description": "50 mm adjustable width",
     "image": "assets/images/products/catalogue-p21-02.jpg",
-    "alt": "Wardrobe Series — Design 2",
-    "categorySlug": "wardrobe-series"
+    "alt": "Trousers Pullout",
+    "categorySlug": "wardrobe-series",
+    "specifications": {
+      "Description": "50 mm adjustable width",
+      "Finish": "Mocha",
+      "Type": "Soft Close",
+      "Carcass size": "900 mm",
+      "Dimensions": "864 × 465 × 76 mm"
+    }
   },
   {
     "id": "catalogue-p21-03",
-    "name": "Wardrobe Series — Design 3",
+    "name": "Leather Storage Box",
     "category": "Wardrobe Series",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "description": "50 mm adjustable width",
     "image": "assets/images/products/catalogue-p21-03.jpg",
-    "alt": "Wardrobe Series — Design 3",
-    "categorySlug": "wardrobe-series"
+    "alt": "Leather Storage Box",
+    "categorySlug": "wardrobe-series",
+    "specifications": {
+      "Description": "50 mm adjustable width",
+      "Finish": "Mocha",
+      "Type": "Soft Close",
+      "Carcass size": "900 mm",
+      "Dimensions": "864 × 465 × 170 mm"
+    }
   },
   {
     "id": "catalogue-p21-04",
-    "name": "Wardrobe Series — Design 4",
+    "name": "Glass Storage Box",
     "category": "Wardrobe Series",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "description": "50 mm adjustable width",
     "image": "assets/images/products/catalogue-p21-04.jpg",
-    "alt": "Wardrobe Series — Design 4",
-    "categorySlug": "wardrobe-series"
+    "alt": "Glass Storage Box",
+    "categorySlug": "wardrobe-series",
+    "specifications": {
+      "Description": "50 mm adjustable width",
+      "Finish": "Mocha",
+      "Type": "Soft Close",
+      "Carcass size": "900 mm",
+      "Dimensions": "864 × 465 × 170 mm"
+    }
   },
   {
     "id": "catalogue-p22-01",
-    "name": "Wardrobe Series — Design 5",
+    "name": "Wardrobe Shoe Rack",
     "category": "Wardrobe Series",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "description": "50 mm adjustable width",
     "image": "assets/images/products/catalogue-p22-01.jpg",
-    "alt": "Wardrobe Series — Design 5",
-    "categorySlug": "wardrobe-series"
+    "alt": "Wardrobe Shoe Rack",
+    "categorySlug": "wardrobe-series",
+    "specifications": {
+      "Description": "50 mm adjustable width",
+      "Finish": "Mocha",
+      "Type": "Soft Close",
+      "Carcass size": "900 mm",
+      "Dimensions": "864 × 465 × 175 mm"
+    }
   },
   {
     "id": "catalogue-p22-02",
-    "name": "Wardrobe Series — Design 6",
+    "name": "Rotating Shoe Rack",
     "category": "Wardrobe Series",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "description": "360° rotation; height adjustable up to 200 mm",
     "image": "assets/images/products/catalogue-p22-02.jpg",
-    "alt": "Wardrobe Series — Design 6",
-    "categorySlug": "wardrobe-series"
+    "alt": "Rotating Shoe Rack",
+    "categorySlug": "wardrobe-series",
+    "specifications": {
+      "Description": "360° rotation; height adjustable up to 200 mm",
+      "Finish": "Mocha",
+      "Dimensions": "700 × 360 × 1910–2110 mm"
+    }
   },
   {
     "id": "catalogue-p22-03",
-    "name": "Wardrobe Series — Design 7",
+    "name": "Top Mounted Double Trouser Pullout",
     "category": "Wardrobe Series",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "description": "",
     "image": "assets/images/products/catalogue-p22-03.jpg",
-    "alt": "Wardrobe Series — Design 7",
-    "categorySlug": "wardrobe-series"
+    "alt": "Top Mounted Double Trouser Pullout",
+    "categorySlug": "wardrobe-series",
+    "specifications": {
+      "Finish": "Mocha",
+      "Type": "Soft Close",
+      "Dimensions": "630 × 455 × 115 mm"
+    }
   },
   {
     "id": "catalogue-p22-04",
-    "name": "Wardrobe Series — Design 8",
+    "name": "Top Mounted Single Trouser Pullout",
     "category": "Wardrobe Series",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "description": "",
     "image": "assets/images/products/catalogue-p22-04.jpg",
-    "alt": "Wardrobe Series — Design 8",
-    "categorySlug": "wardrobe-series"
+    "alt": "Top Mounted Single Trouser Pullout",
+    "categorySlug": "wardrobe-series",
+    "specifications": {
+      "Finish": "Mocha",
+      "Type": "Soft Close",
+      "Dimensions": "340 × 455 × 114 mm"
+    }
   },
   {
     "id": "catalogue-p23-01",
-    "name": "Wardrobe Series — Design 9",
+    "name": "Wardrobe Lift",
     "category": "Wardrobe Series",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "description": "Weight capacity 15 kg",
     "image": "assets/images/products/catalogue-p23-01.jpg",
-    "alt": "Wardrobe Series — Design 9",
-    "categorySlug": "wardrobe-series"
+    "alt": "Wardrobe Lift",
+    "categorySlug": "wardrobe-series",
+    "specifications": {
+      "Description": "Weight capacity 15 kg",
+      "Finish": "Mocha",
+      "Type": "Soft Close",
+      "Dimensions": "800–1150 mm"
+    }
   },
   {
     "id": "catalogue-p23-02",
-    "name": "Wardrobe Series — Design 10",
+    "name": "Leather Triple Drawer",
     "category": "Wardrobe Series",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "description": "Ready to use",
     "image": "assets/images/products/catalogue-p23-02.jpg",
-    "alt": "Wardrobe Series — Design 10",
-    "categorySlug": "wardrobe-series"
+    "alt": "Leather Triple Drawer",
+    "categorySlug": "wardrobe-series",
+    "specifications": {
+      "Description": "Ready to use",
+      "Finish": "Mocha",
+      "Carcass size": "900 mm",
+      "Dimensions": "860 × 425 × 140 mm"
+    }
   },
   {
     "id": "catalogue-p23-03",
-    "name": "Wardrobe Series — Design 11",
+    "name": "Leather Digital Safe Box",
     "category": "Wardrobe Series",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "description": "Password/fingerprint; key protection; USB charging",
     "image": "assets/images/products/catalogue-p23-03.jpg",
-    "alt": "Wardrobe Series — Design 11",
-    "categorySlug": "wardrobe-series"
+    "alt": "Leather Digital Safe Box",
+    "categorySlug": "wardrobe-series",
+    "specifications": {
+      "Description": "Password/fingerprint; key protection; USB charging",
+      "Finish": "Mocha",
+      "Dimensions": "475 × 425 × 160 mm"
+    }
   },
   {
     "id": "catalogue-p24-01",
-    "name": "Wardrobe Series — Design 12",
+    "name": "Leather Single Drawer",
     "category": "Wardrobe Series",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "description": "Ready to use",
     "image": "assets/images/products/catalogue-p24-01.jpg",
-    "alt": "Wardrobe Series — Design 12",
-    "categorySlug": "wardrobe-series"
+    "alt": "Leather Single Drawer",
+    "categorySlug": "wardrobe-series",
+    "specifications": {
+      "Description": "Ready to use",
+      "Finish": "Mocha",
+      "Dimensions": "385 × 425 × 160 mm"
+    }
   },
   {
     "id": "catalogue-p24-02",
-    "name": "Wardrobe Series — Design 13",
+    "name": "Underwear Storage Box",
     "category": "Wardrobe Series",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "description": "",
     "image": "assets/images/products/catalogue-p24-02.jpg",
-    "alt": "Wardrobe Series — Design 13",
-    "categorySlug": "wardrobe-series"
+    "alt": "Underwear Storage Box",
+    "categorySlug": "wardrobe-series",
+    "specifications": {
+      "Finish": "Mocha",
+      "Type": "Soft Close",
+      "Carcass size": "900 mm",
+      "Dimensions": "864 × 465 × 76 mm"
+    }
   },
   {
     "id": "catalogue-p25-01",
-    "name": "3D Black Soft-Close Hinge",
-    "category": "Black Hinges",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "name": "Cassle Crew 3D Black Soft-Close Hinge",
+    "category": "Hinges",
+    "description": "Five-hole hinge; 0°, 8° and 15° options.",
     "image": "assets/images/products/catalogue-p25-01.jpg",
-    "alt": "3D Black Soft-Close Hinge",
-    "categorySlug": "black-hinges"
+    "alt": "Cassle Crew 3D Black Soft-Close Hinge",
+    "categorySlug": "hinges",
+    "specifications": {
+      "Description": "Five-hole hinge; 0°, 8° and 15° options.",
+      "Finish": "Black",
+      "Type": "Soft Close"
+    }
   },
   {
     "id": "catalogue-p25-02",
-    "name": "Black Soft-Close Hinge 43mm",
-    "category": "Black Hinges",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "name": "Cassle Crew Black Soft-Close Hinge (43 mm)",
+    "category": "Hinges",
+    "description": "Three-hole hinge; 0°, 8° and 15° options.",
     "image": "assets/images/products/catalogue-p25-02.jpg",
-    "alt": "Black Soft-Close Hinge 43mm",
-    "categorySlug": "black-hinges"
+    "alt": "Cassle Crew Black Soft-Close Hinge (43 mm)",
+    "categorySlug": "hinges",
+    "specifications": {
+      "Description": "Three-hole hinge; 0°, 8° and 15° options.",
+      "Finish": "Black",
+      "Type": "Soft Close",
+      "Size": "43 mm"
+    }
   },
   {
     "id": "catalogue-p25-03",
-    "name": "3D Black Corner Hinge",
-    "category": "Black Hinges",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "name": "Cassle Crew 3D Black Soft-Close Corner Hinge",
+    "category": "Hinges",
+    "description": "",
     "image": "assets/images/products/catalogue-p25-03.jpg",
-    "alt": "3D Black Corner Hinge",
-    "categorySlug": "black-hinges"
+    "alt": "Cassle Crew 3D Black Soft-Close Corner Hinge",
+    "categorySlug": "hinges",
+    "specifications": {
+      "Finish": "Black",
+      "Type": "Soft Close"
+    }
   },
   {
     "id": "catalogue-p25-04",
-    "name": "Black Blind Hinge",
-    "category": "Black Hinges",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "name": "Cassle Crew Black Soft-Close Blind Hinge",
+    "category": "Hinges",
+    "description": "",
     "image": "assets/images/products/catalogue-p25-04.jpg",
-    "alt": "Black Blind Hinge",
-    "categorySlug": "black-hinges"
+    "alt": "Cassle Crew Black Soft-Close Blind Hinge",
+    "categorySlug": "hinges",
+    "specifications": {
+      "Finish": "Black",
+      "Type": "Soft Close"
+    }
   },
   {
     "id": "catalogue-p26-01",
-    "name": "Concealed Hinge — Black Finish",
+    "name": "Concealed Hinges — Black",
     "category": "Antique Concealed Hinges",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "description": "Three-dimensional adjustable concealed hinge.",
     "image": "assets/images/products/catalogue-p26-01.jpg",
-    "alt": "Concealed Hinge — Black Finish",
-    "categorySlug": "antique-concealed-hinges"
+    "alt": "Concealed Hinges — Black",
+    "categorySlug": "antique-concealed-hinges",
+    "specifications": {
+      "Description": "Three-dimensional adjustable concealed hinge.",
+      "Finish": "Black",
+      "Type": "3D Adjustment",
+      "Weight capacity": "80 kg (one pair)"
+    }
   },
   {
     "id": "catalogue-p26-02",
-    "name": "Concealed Hinge — Antique Finish",
+    "name": "Concealed Hinges — Antique",
     "category": "Antique Concealed Hinges",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "description": "Three-dimensional adjustable concealed hinge.",
     "image": "assets/images/products/catalogue-p26-02.jpg",
-    "alt": "Concealed Hinge — Antique Finish",
-    "categorySlug": "antique-concealed-hinges"
+    "alt": "Concealed Hinges — Antique",
+    "categorySlug": "antique-concealed-hinges",
+    "specifications": {
+      "Description": "Three-dimensional adjustable concealed hinge.",
+      "Finish": "Antique",
+      "Type": "3D Adjustment",
+      "Weight capacity": "80 kg (one pair)"
+    }
   },
   {
     "id": "catalogue-p27-01",
-    "name": "Telescopic Slides — Design 1",
-    "category": "Telescopic Slides",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "name": "Cassle Crew 5D Black Soft-Close Hinge",
+    "category": "Hinges",
+    "description": "8 mm adjustment; without-pump slide-on hinge; 0°, 8° and 15° options.",
     "image": "assets/images/products/catalogue-p27-01.jpg",
-    "alt": "Telescopic Slides — Design 1",
-    "categorySlug": "telescopic-slides"
-  },
-  {
-    "id": "catalogue-p27-02",
-    "name": "Telescopic Slides — Design 2",
-    "category": "Telescopic Slides",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
-    "image": "assets/images/products/catalogue-p27-02.jpg",
-    "alt": "Telescopic Slides — Design 2",
-    "categorySlug": "telescopic-slides"
+    "alt": "Cassle Crew 5D Black Soft-Close Hinge",
+    "categorySlug": "hinges",
+    "specifications": {
+      "Description": "8 mm adjustment; without-pump slide-on hinge; 0°, 8° and 15° options.",
+      "Finish": "Black",
+      "Type": "Soft Close",
+      "Weight capacity": "10 kg"
+    }
   },
   {
     "id": "catalogue-p28-01",
-    "name": "Telescopic Slides — Design 3",
-    "category": "Telescopic Slides",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "name": "Black Premium Telescopic Slide",
+    "category": "Drawer Runner",
+    "description": "",
     "image": "assets/images/products/catalogue-p28-01.jpg",
-    "alt": "Telescopic Slides — Design 3",
-    "categorySlug": "telescopic-slides"
+    "alt": "Black Premium Telescopic Slide",
+    "categorySlug": "drawer-runner",
+    "specifications": {
+      "Finish": "Black",
+      "Type": "Normal",
+      "Size": "10, 12, 14, 16, 18, 20 inches"
+    }
   },
   {
     "id": "catalogue-p28-02",
-    "name": "Telescopic Slides — Design 4",
-    "category": "Telescopic Slides",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "name": "Black Premium Telescopic Slide — Soft Close",
+    "category": "Drawer Runner",
+    "description": "",
     "image": "assets/images/products/catalogue-p28-02.jpg",
-    "alt": "Telescopic Slides — Design 4",
-    "categorySlug": "telescopic-slides"
+    "alt": "Black Premium Telescopic Slide — Soft Close",
+    "categorySlug": "drawer-runner",
+    "specifications": {
+      "Finish": "Black",
+      "Type": "Soft Close",
+      "Size": "12, 14, 16, 18, 20, 22 inches"
+    }
   },
   {
     "id": "catalogue-p28-03",
-    "name": "Telescopic Slides — Design 5",
-    "category": "Telescopic Slides",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "name": "Heavy-Duty Telescopic Slide (53 mm)",
+    "category": "Drawer Runner",
+    "description": "",
     "image": "assets/images/products/catalogue-p28-03.jpg",
-    "alt": "Telescopic Slides — Design 5",
-    "categorySlug": "telescopic-slides"
-  },
-  {
-    "id": "catalogue-p29-01",
-    "name": "Full-Extension Drawer Slide",
-    "category": "Quadro / Full-Extension Slides",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
-    "image": "assets/images/products/catalogue-p29-01.jpg",
-    "alt": "Full-Extension Drawer Slide",
-    "categorySlug": "quadro-full-extension-slides"
-  },
-  {
-    "id": "catalogue-p29-02",
-    "name": "Quadro / Full-Extension Slides — Design 2",
-    "category": "Quadro / Full-Extension Slides",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
-    "image": "assets/images/products/catalogue-p29-02.jpg",
-    "alt": "Quadro / Full-Extension Slides — Design 2",
-    "categorySlug": "quadro-full-extension-slides"
+    "alt": "Heavy-Duty Telescopic Slide (53 mm)",
+    "categorySlug": "drawer-runner",
+    "specifications": {
+      "Finish": "Zinc",
+      "Type": "Normal",
+      "Size": "30, 36 inches"
+    }
   },
   {
     "id": "catalogue-p30-01",
     "name": "Slim Heavy Tandem Box",
     "category": "Drawer Slides / Tandem Boxes",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "description": "Synchronized drawer system.",
     "image": "assets/images/products/catalogue-p30-01.jpg",
     "alt": "Slim Heavy Tandem Box",
-    "categorySlug": "drawer-slides-tandem-boxes"
-  },
-  {
-    "id": "catalogue-p31-01",
-    "name": "Drawer Slides / Tandem Boxes — Design 1",
-    "category": "Drawer Slides / Tandem Boxes",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
-    "image": "assets/images/products/catalogue-p31-01.jpg",
-    "alt": "Drawer Slides / Tandem Boxes — Design 1",
-    "categorySlug": "drawer-slides-tandem-boxes"
-  },
-  {
-    "id": "catalogue-p31-02",
-    "name": "Drawer Slides / Tandem Boxes — Design 2",
-    "category": "Drawer Slides / Tandem Boxes",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
-    "image": "assets/images/products/catalogue-p31-02.jpg",
-    "alt": "Drawer Slides / Tandem Boxes — Design 2",
-    "categorySlug": "drawer-slides-tandem-boxes"
+    "categorySlug": "drawer-slides-tandem-boxes",
+    "specifications": {
+      "Description": "Synchronized drawer system.",
+      "Type": "Soft Close",
+      "Weight capacity": "50 kg",
+      "Dimensions": "Heights 88, 170, 200 mm; depths 300, 350, 400, 450, 500 mm"
+    }
   },
   {
     "id": "catalogue-p31-03",
-    "name": "Drawer Slides / Tandem Boxes — Design 3",
+    "name": "Space Tower Glass Tandem Box",
     "category": "Drawer Slides / Tandem Boxes",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "description": "Glass tandem box component shown in the drawer systems collection.",
     "image": "assets/images/products/catalogue-p31-03.jpg",
-    "alt": "Drawer Slides / Tandem Boxes — Design 3",
-    "categorySlug": "drawer-slides-tandem-boxes"
+    "alt": "Space Tower Glass Tandem Box",
+    "categorySlug": "drawer-slides-tandem-boxes",
+    "specifications": {
+      "Description": "Glass tandem box component"
+    }
   },
   {
     "id": "catalogue-p32-01",
-    "name": "Wardrobe Sliding Systems — Design 1",
+    "name": "Smart Openable Glass Unit",
     "category": "Wardrobe Sliding Systems",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "description": "Press for up and down.",
     "image": "assets/images/products/catalogue-p32-01.jpg",
-    "alt": "Wardrobe Sliding Systems — Design 1",
-    "categorySlug": "wardrobe-sliding-systems"
+    "alt": "Smart Openable Glass Unit",
+    "categorySlug": "wardrobe-sliding-systems",
+    "specifications": {
+      "Description": "Press for up and down.",
+      "Finish": "Glass",
+      "Type": "Sensor (Electric)",
+      "Carcass size": "900 mm width; 700 mm height"
+    }
   },
   {
     "id": "catalogue-p32-02",
     "name": "Wardrobe Sliding Systems — Design 2",
     "category": "Wardrobe Sliding Systems",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "description": "",
     "image": "assets/images/products/catalogue-p32-02.jpg",
     "alt": "Wardrobe Sliding Systems — Design 2",
-    "categorySlug": "wardrobe-sliding-systems"
+    "categorySlug": "wardrobe-sliding-systems",
+    "specifications": {}
   },
   {
     "id": "catalogue-p33-01",
-    "name": "Wardrobe Sliding Systems — Design 3",
+    "name": "Sensor Foldable Glass Unit",
     "category": "Wardrobe Sliding Systems",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "description": "Only touch; ready to use.",
     "image": "assets/images/products/catalogue-p33-01.jpg",
-    "alt": "Wardrobe Sliding Systems — Design 3",
-    "categorySlug": "wardrobe-sliding-systems"
+    "alt": "Sensor Foldable Glass Unit",
+    "categorySlug": "wardrobe-sliding-systems",
+    "specifications": {
+      "Description": "Only touch; ready to use.",
+      "Finish": "White Glass",
+      "Other finish": "Black Glass",
+      "Carcass size": "600 mm width; 700 mm height"
+    }
   },
   {
     "id": "catalogue-p33-02",
     "name": "Wardrobe Sliding Systems — Design 4",
     "category": "Wardrobe Sliding Systems",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "description": "",
     "image": "assets/images/products/catalogue-p33-02.jpg",
     "alt": "Wardrobe Sliding Systems — Design 4",
-    "categorySlug": "wardrobe-sliding-systems"
+    "categorySlug": "wardrobe-sliding-systems",
+    "specifications": {}
   },
   {
     "id": "catalogue-p33-03",
     "name": "Wardrobe Sliding Systems — Design 5",
     "category": "Wardrobe Sliding Systems",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "description": "",
     "image": "assets/images/products/catalogue-p33-03.jpg",
     "alt": "Wardrobe Sliding Systems — Design 5",
-    "categorySlug": "wardrobe-sliding-systems"
+    "categorySlug": "wardrobe-sliding-systems",
+    "specifications": {}
   },
   {
     "id": "catalogue-p35-02",
-    "name": "Wardrobe Profiles — Design 6",
+    "name": "Push Lock",
     "category": "Wardrobe Profiles",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "description": "For profile",
     "image": "assets/images/products/catalogue-p35-02.jpg",
-    "alt": "Wardrobe Profiles — Design 6",
-    "categorySlug": "wardrobe-profiles"
+    "alt": "Push Lock",
+    "categorySlug": "wardrobe-profiles",
+    "specifications": {
+      "Description": "For profile"
+    }
   },
   {
     "id": "catalogue-p35-03",
-    "name": "Wardrobe Profiles — Design 7",
+    "name": "Gasket",
     "category": "Wardrobe Profiles",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "description": "",
     "image": "assets/images/products/catalogue-p35-03.jpg",
-    "alt": "Wardrobe Profiles — Design 7",
-    "categorySlug": "wardrobe-profiles"
-  },
-  {
-    "id": "catalogue-p36-01",
-    "name": "Kitchen & Cabinet Accessories — Design 1",
-    "category": "Kitchen & Cabinet Accessories",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
-    "image": "assets/images/products/catalogue-p36-01.jpg",
-    "alt": "Kitchen & Cabinet Accessories — Design 1",
-    "categorySlug": "kitchen-cabinet-accessories"
-  },
-  {
-    "id": "catalogue-p36-03",
-    "name": "Kitchen & Cabinet Accessories — Design 3",
-    "category": "Kitchen & Cabinet Accessories",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
-    "image": "assets/images/products/catalogue-p36-03.jpg",
-    "alt": "Kitchen & Cabinet Accessories — Design 3",
-    "categorySlug": "kitchen-cabinet-accessories"
-  },
-  {
-    "id": "catalogue-p36-04",
-    "name": "Kitchen & Cabinet Accessories — Design 4",
-    "category": "Kitchen & Cabinet Accessories",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
-    "image": "assets/images/products/catalogue-p36-04.jpg",
-    "alt": "Kitchen & Cabinet Accessories — Design 4",
-    "categorySlug": "kitchen-cabinet-accessories"
-  },
-  {
-    "id": "catalogue-p37-02",
-    "name": "Kitchen & Cabinet Accessories — Design 6",
-    "category": "Kitchen & Cabinet Accessories",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
-    "image": "assets/images/products/catalogue-p37-02.jpg",
-    "alt": "Kitchen & Cabinet Accessories — Design 6",
-    "categorySlug": "kitchen-cabinet-accessories"
-  },
-  {
-    "id": "catalogue-p38-02",
-    "name": "Kitchen & Cabinet Accessories — Design 10",
-    "category": "Kitchen & Cabinet Accessories",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
-    "image": "assets/images/products/catalogue-p38-02.jpg",
-    "alt": "Kitchen & Cabinet Accessories — Design 10",
-    "categorySlug": "kitchen-cabinet-accessories"
-  },
-  {
-    "id": "catalogue-p38-03",
-    "name": "Kitchen & Cabinet Accessories — Design 11",
-    "category": "Kitchen & Cabinet Accessories",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
-    "image": "assets/images/products/catalogue-p38-03.jpg",
-    "alt": "Kitchen & Cabinet Accessories — Design 11",
-    "categorySlug": "kitchen-cabinet-accessories"
-  },
-  {
-    "id": "catalogue-p41-02",
-    "name": "Kitchen & Cabinet Accessories — Design 22",
-    "category": "Kitchen & Cabinet Accessories",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
-    "image": "assets/images/products/catalogue-p41-02.jpg",
-    "alt": "Kitchen & Cabinet Accessories — Design 22",
-    "categorySlug": "kitchen-cabinet-accessories"
-  },
-  {
-    "id": "catalogue-p41-03",
-    "name": "Kitchen & Cabinet Accessories — Design 23",
-    "category": "Kitchen & Cabinet Accessories",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
-    "image": "assets/images/products/catalogue-p41-03.jpg",
-    "alt": "Kitchen & Cabinet Accessories — Design 23",
-    "categorySlug": "kitchen-cabinet-accessories"
-  },
-  {
-    "id": "catalogue-p41-04",
-    "name": "Kitchen & Cabinet Accessories — Design 24",
-    "category": "Kitchen & Cabinet Accessories",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
-    "image": "assets/images/products/catalogue-p41-04.jpg",
-    "alt": "Kitchen & Cabinet Accessories — Design 24",
-    "categorySlug": "kitchen-cabinet-accessories"
-  },
-  {
-    "id": "catalogue-p43-02",
-    "name": "Kitchen & Cabinet Accessories — Design 29",
-    "category": "Kitchen & Cabinet Accessories",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
-    "image": "assets/images/products/catalogue-p43-02.jpg",
-    "alt": "Kitchen & Cabinet Accessories — Design 29",
-    "categorySlug": "kitchen-cabinet-accessories"
-  },
-  {
-    "id": "catalogue-p43-03",
-    "name": "Kitchen & Cabinet Accessories — Design 30",
-    "category": "Kitchen & Cabinet Accessories",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
-    "image": "assets/images/products/catalogue-p43-03.jpg",
-    "alt": "Kitchen & Cabinet Accessories — Design 30",
-    "categorySlug": "kitchen-cabinet-accessories"
-  },
-  {
-    "id": "catalogue-p43-04",
-    "name": "Kitchen & Cabinet Accessories — Design 31",
-    "category": "Kitchen & Cabinet Accessories",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
-    "image": "assets/images/products/catalogue-p43-04.jpg",
-    "alt": "Kitchen & Cabinet Accessories — Design 31",
-    "categorySlug": "kitchen-cabinet-accessories"
-  },
-  {
-    "id": "catalogue-p44-01",
-    "name": "Kitchen & Cabinet Accessories — Design 32",
-    "category": "Kitchen & Cabinet Accessories",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
-    "image": "assets/images/products/catalogue-p44-01.jpg",
-    "alt": "Kitchen & Cabinet Accessories — Design 32",
-    "categorySlug": "kitchen-cabinet-accessories"
-  },
-  {
-    "id": "catalogue-p44-02",
-    "name": "Kitchen & Cabinet Accessories — Design 33",
-    "category": "Kitchen & Cabinet Accessories",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
-    "image": "assets/images/products/catalogue-p44-02.jpg",
-    "alt": "Kitchen & Cabinet Accessories — Design 33",
-    "categorySlug": "kitchen-cabinet-accessories"
-  },
-  {
-    "id": "catalogue-p44-03",
-    "name": "Kitchen & Cabinet Accessories — Design 34",
-    "category": "Kitchen & Cabinet Accessories",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
-    "image": "assets/images/products/catalogue-p44-03.jpg",
-    "alt": "Kitchen & Cabinet Accessories — Design 34",
-    "categorySlug": "kitchen-cabinet-accessories"
-  },
-  {
-    "id": "catalogue-p44-04",
-    "name": "Kitchen & Cabinet Accessories — Design 35",
-    "category": "Kitchen & Cabinet Accessories",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
-    "image": "assets/images/products/catalogue-p44-04.jpg",
-    "alt": "Kitchen & Cabinet Accessories — Design 35",
-    "categorySlug": "kitchen-cabinet-accessories"
-  },
-  {
-    "id": "catalogue-p45-01",
-    "name": "Kitchen & Cabinet Accessories — Design 36",
-    "category": "Kitchen & Cabinet Accessories",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
-    "image": "assets/images/products/catalogue-p45-01.jpg",
-    "alt": "Kitchen & Cabinet Accessories — Design 36",
-    "categorySlug": "kitchen-cabinet-accessories"
-  },
-  {
-    "id": "catalogue-p45-02",
-    "name": "Kitchen & Cabinet Accessories — Design 37",
-    "category": "Kitchen & Cabinet Accessories",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
-    "image": "assets/images/products/catalogue-p45-02.jpg",
-    "alt": "Kitchen & Cabinet Accessories — Design 37",
-    "categorySlug": "kitchen-cabinet-accessories"
-  },
-  {
-    "id": "catalogue-p45-03",
-    "name": "Kitchen & Cabinet Accessories — Design 38",
-    "category": "Kitchen & Cabinet Accessories",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
-    "image": "assets/images/products/catalogue-p45-03.jpg",
-    "alt": "Kitchen & Cabinet Accessories — Design 38",
-    "categorySlug": "kitchen-cabinet-accessories"
-  },
-  {
-    "id": "catalogue-p45-04",
-    "name": "Kitchen & Cabinet Accessories — Design 39",
-    "category": "Kitchen & Cabinet Accessories",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
-    "image": "assets/images/products/catalogue-p45-04.jpg",
-    "alt": "Kitchen & Cabinet Accessories — Design 39",
-    "categorySlug": "kitchen-cabinet-accessories"
+    "alt": "Gasket",
+    "categorySlug": "wardrobe-profiles",
+    "specifications": {}
   },
   {
     "id": "catalogue-p51-01",
-    "name": "Brass Pull Handles — Design 1",
+    "name": "CC-01 Pull Handle",
     "category": "Brass Pull Handles",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "description": "Premium brass pull handle with an antique finish.",
     "image": "assets/images/products/catalogue-p51-01.jpg",
-    "alt": "Brass Pull Handles — Design 1",
-    "categorySlug": "brass-pull-handles"
+    "alt": "CC-01 Pull Handle",
+    "categorySlug": "brass-pull-handles",
+    "specifications": {
+      "Description": "Decorative brass pull handle.",
+      "Type": "Pull handle",
+      "Finish": "Antique",
+      "Material": "Brass",
+      "Size": "24 inches"
+    }
   },
   {
     "id": "catalogue-p51-02",
-    "name": "Brass Pull Handles — Design 2",
+    "name": "CC-02 Pull Handle",
     "category": "Brass Pull Handles",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "description": "Premium brass pull handle with an antique finish.",
     "image": "assets/images/products/catalogue-p51-02.jpg",
-    "alt": "Brass Pull Handles — Design 2",
-    "categorySlug": "brass-pull-handles"
+    "alt": "CC-02 Pull Handle",
+    "categorySlug": "brass-pull-handles",
+    "specifications": {
+      "Description": "Decorative brass pull handle.",
+      "Type": "Pull handle",
+      "Finish": "Antique",
+      "Material": "Brass",
+      "Size": "24, 36 inches"
+    }
   },
   {
     "id": "catalogue-p51-03",
-    "name": "Brass Pull Handles — Design 3",
+    "name": "CC-03 Pull Handle",
     "category": "Brass Pull Handles",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "description": "Premium brass pull handle with an antique finish.",
     "image": "assets/images/products/catalogue-p51-03.jpg",
-    "alt": "Brass Pull Handles — Design 3",
-    "categorySlug": "brass-pull-handles"
+    "alt": "CC-03 Pull Handle",
+    "categorySlug": "brass-pull-handles",
+    "specifications": {
+      "Description": "Decorative brass pull handle.",
+      "Type": "Pull handle",
+      "Finish": "Antique",
+      "Material": "Brass",
+      "Size": "500, 700 mm"
+    }
   },
   {
     "id": "catalogue-p51-04",
-    "name": "Brass Pull Handles — Design 4",
+    "name": "CC-04 Pull Handle",
     "category": "Brass Pull Handles",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "description": "Premium brass pull handle with an antique finish.",
     "image": "assets/images/products/catalogue-p51-04.jpg",
-    "alt": "Brass Pull Handles — Design 4",
-    "categorySlug": "brass-pull-handles"
+    "alt": "CC-04 Pull Handle",
+    "categorySlug": "brass-pull-handles",
+    "specifications": {
+      "Description": "Decorative brass pull handle.",
+      "Type": "Pull handle",
+      "Finish": "Antique",
+      "Material": "Brass",
+      "Size": "24 inches"
+    }
   },
   {
     "id": "catalogue-p52-01",
-    "name": "Brass Pull Handles — Design 5",
+    "name": "CC-05 Pull Handle",
     "category": "Brass Pull Handles",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "description": "Premium brass pull handle with an antique finish.",
     "image": "assets/images/products/catalogue-p52-01.jpg",
-    "alt": "Brass Pull Handles — Design 5",
-    "categorySlug": "brass-pull-handles"
+    "alt": "CC-05 Pull Handle",
+    "categorySlug": "brass-pull-handles",
+    "specifications": {
+      "Description": "Decorative brass pull handle.",
+      "Type": "Pull handle",
+      "Finish": "Antique",
+      "Material": "Brass",
+      "Size": "21 inches"
+    }
   },
   {
     "id": "catalogue-p52-02",
-    "name": "Brass Pull Handles — Design 6",
+    "name": "CC-06 Pull Handle",
     "category": "Brass Pull Handles",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "description": "Premium brass pull handle with an antique finish.",
     "image": "assets/images/products/catalogue-p52-02.jpg",
-    "alt": "Brass Pull Handles — Design 6",
-    "categorySlug": "brass-pull-handles"
+    "alt": "CC-06 Pull Handle",
+    "categorySlug": "brass-pull-handles",
+    "specifications": {
+      "Description": "Decorative brass pull handle.",
+      "Type": "Pull handle",
+      "Finish": "Antique",
+      "Material": "Brass",
+      "Size": "21 inches"
+    }
+  },
+  {
+    "id": "catalogue-p52-03",
+    "name": "CC-07 Pull Handle",
+    "category": "Brass Pull Handles",
+    "description": "Premium brass pull handle with an antique finish.",
+    "image": "assets/images/products/catalogue-p52-03.jpg",
+    "alt": "CC-07 Pull Handle",
+    "categorySlug": "brass-pull-handles",
+    "specifications": {
+      "Description": "Premium Brass Handle",
+      "Material": "Brass",
+      "Finish": "Antique",
+      "Size": "17 inches"
+    }
   },
   {
     "id": "catalogue-p53-01",
-    "name": "Brass Pull Handles — Design 7",
-    "category": "Brass Pull Handles",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "name": "CC-296 Pull Handle",
+    "category": "Pull Handles",
+    "description": "Decorative pull handle from the Cassle Crew catalogue.",
     "image": "assets/images/products/catalogue-p53-01.jpg",
-    "alt": "Brass Pull Handles — Design 7",
-    "categorySlug": "brass-pull-handles"
+    "alt": "CC-296 Pull Handle",
+    "categorySlug": "pull-handles",
+    "specifications": {
+      "Description": "Decorative pull handle.",
+      "Type": "Pull handle",
+      "Size": "900 mm"
+    }
   },
   {
     "id": "catalogue-p53-02",
-    "name": "Brass Pull Handles — Design 8",
-    "category": "Brass Pull Handles",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "name": "CC-227 Pull Handle",
+    "category": "Pull Handles",
+    "description": "Decorative pull handle from the Cassle Crew catalogue.",
     "image": "assets/images/products/catalogue-p53-02.jpg",
-    "alt": "Brass Pull Handles — Design 8",
-    "categorySlug": "brass-pull-handles"
+    "alt": "CC-227 Pull Handle",
+    "categorySlug": "pull-handles",
+    "specifications": {
+      "Description": "Decorative pull handle.",
+      "Type": "Pull handle",
+      "Size": "600, 900 mm"
+    }
   },
   {
     "id": "catalogue-p54-01",
-    "name": "Brass Pull Handles — Design 9",
-    "category": "Brass Pull Handles",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "name": "CC-423 Pull Handle",
+    "category": "Pull Handles",
+    "description": "Decorative pull handle from the Cassle Crew catalogue.",
     "image": "assets/images/products/catalogue-p54-01.jpg",
-    "alt": "Brass Pull Handles — Design 9",
-    "categorySlug": "brass-pull-handles"
+    "alt": "CC-423 Pull Handle",
+    "categorySlug": "pull-handles",
+    "specifications": {
+      "Description": "Decorative pull handle.",
+      "Type": "Pull handle",
+      "Size": "900 mm"
+    }
   },
   {
     "id": "catalogue-p54-02",
-    "name": "Brass Pull Handles — Design 10",
-    "category": "Brass Pull Handles",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "name": "CC-464 Pull Handle",
+    "category": "Pull Handles",
+    "description": "Decorative pull handle from the Cassle Crew catalogue.",
     "image": "assets/images/products/catalogue-p54-02.jpg",
-    "alt": "Brass Pull Handles — Design 10",
-    "categorySlug": "brass-pull-handles"
+    "alt": "CC-464 Pull Handle",
+    "categorySlug": "pull-handles",
+    "specifications": {
+      "Description": "Decorative pull handle.",
+      "Type": "Pull handle",
+      "Size": "600 mm"
+    }
   },
   {
     "id": "catalogue-p54-03",
-    "name": "Brass Pull Handles — Design 11",
-    "category": "Brass Pull Handles",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "name": "CC-716 Pull Handle",
+    "category": "Pull Handles",
+    "description": "Decorative pull handle from the Cassle Crew catalogue.",
     "image": "assets/images/products/catalogue-p54-03.jpg",
-    "alt": "Brass Pull Handles — Design 11",
-    "categorySlug": "brass-pull-handles"
-  },
-  {
-    "id": "catalogue-p54-04",
-    "name": "Brass Pull Handles — Design 12",
-    "category": "Brass Pull Handles",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
-    "image": "assets/images/products/catalogue-p54-04.jpg",
-    "alt": "Brass Pull Handles — Design 12",
-    "categorySlug": "brass-pull-handles"
+    "alt": "CC-716 Pull Handle",
+    "categorySlug": "pull-handles",
+    "specifications": {
+      "Description": "Decorative pull handle.",
+      "Type": "Pull handle",
+      "Size": "900 mm"
+    }
   },
   {
     "id": "catalogue-p55-01",
-    "name": "Brass Pull Handles — Design 13",
-    "category": "Brass Pull Handles",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "name": "CC-329 Pull Handle",
+    "category": "Pull Handles",
+    "description": "Decorative pull handle from the Cassle Crew catalogue.",
     "image": "assets/images/products/catalogue-p55-01.jpg",
-    "alt": "Brass Pull Handles — Design 13",
-    "categorySlug": "brass-pull-handles"
+    "alt": "CC-329 Pull Handle",
+    "categorySlug": "pull-handles",
+    "specifications": {
+      "Description": "Decorative pull handle.",
+      "Type": "Pull handle",
+      "Size": "900 mm"
+    }
   },
   {
     "id": "catalogue-p55-02",
-    "name": "Brass Pull Handles — Design 14",
-    "category": "Brass Pull Handles",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "name": "CC-274 Pull Handle",
+    "category": "Pull Handles",
+    "description": "Decorative pull handle from the Cassle Crew catalogue.",
     "image": "assets/images/products/catalogue-p55-02.jpg",
-    "alt": "Brass Pull Handles — Design 14",
-    "categorySlug": "brass-pull-handles"
+    "alt": "CC-274 Pull Handle",
+    "categorySlug": "pull-handles",
+    "specifications": {
+      "Description": "Decorative pull handle.",
+      "Type": "Pull handle",
+      "Size": "800, 1200 mm"
+    }
   },
   {
     "id": "catalogue-p55-03",
-    "name": "Brass Pull Handles — Design 15",
-    "category": "Brass Pull Handles",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "name": "CC-312 Pull Handle",
+    "category": "Pull Handles",
+    "description": "Decorative pull handle from the Cassle Crew catalogue.",
     "image": "assets/images/products/catalogue-p55-03.jpg",
-    "alt": "Brass Pull Handles — Design 15",
-    "categorySlug": "brass-pull-handles"
+    "alt": "CC-312 Pull Handle",
+    "categorySlug": "pull-handles",
+    "specifications": {
+      "Description": "Decorative pull handle.",
+      "Type": "Pull handle",
+      "Size": "900, 1200 mm"
+    }
   },
   {
     "id": "catalogue-p55-04",
-    "name": "Brass Pull Handles — Design 16",
-    "category": "Brass Pull Handles",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
+    "name": "CC-605 Pull Handle",
+    "category": "Pull Handles",
+    "description": "Premium leg pull handle in PVD Rose Gold finish.",
     "image": "assets/images/products/catalogue-p55-04.jpg",
-    "alt": "Brass Pull Handles — Design 16",
-    "categorySlug": "brass-pull-handles"
-  },
-  {
-    "id": "catalogue-p56-01",
-    "name": "Brass Pull Handles — Design 17",
-    "category": "Brass Pull Handles",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
-    "image": "assets/images/products/catalogue-p56-01.jpg",
-    "alt": "Brass Pull Handles — Design 17",
-    "categorySlug": "brass-pull-handles"
-  },
-  {
-    "id": "catalogue-p56-02",
-    "name": "Brass Pull Handles — Design 18",
-    "category": "Brass Pull Handles",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
-    "image": "assets/images/products/catalogue-p56-02.jpg",
-    "alt": "Brass Pull Handles — Design 18",
-    "categorySlug": "brass-pull-handles"
-  },
-  {
-    "id": "catalogue-p56-03",
-    "name": "Brass Pull Handles — Design 19",
-    "category": "Brass Pull Handles",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
-    "image": "assets/images/products/catalogue-p56-03.jpg",
-    "alt": "Brass Pull Handles — Design 19",
-    "categorySlug": "brass-pull-handles"
-  },
-  {
-    "id": "catalogue-p56-04",
-    "name": "Brass Pull Handles — Design 20",
-    "category": "Brass Pull Handles",
-    "description": "From the Cassle Crew May 2026 catalogue. Sizes, finishes and availability can be confirmed by calling +91 98761 16200.",
-    "image": "assets/images/products/catalogue-p56-04.jpg",
-    "alt": "Brass Pull Handles — Design 20",
-    "categorySlug": "brass-pull-handles"
-  },
-  {
-    "id": "knobs-01",
-    "name": "Metallic Cabinet Knobs",
-    "category": "Knobs",
-    "description": "Decorative cabinet knob designs. Please contact Cassle Crew to confirm finishes and availability.",
-    "image": "assets/images/products/knobs-metallic-01.jpg",
-    "alt": "Metallic Cabinet Knobs",
-    "categorySlug": "knobs"
-  },
-  {
-    "id": "knobs-02",
-    "name": "Antique Finish Cabinet Knobs",
-    "category": "Knobs",
-    "description": "Decorative cabinet knob designs. Please contact Cassle Crew to confirm finishes and availability.",
-    "image": "assets/images/products/knobs-dark-01.jpg",
-    "alt": "Antique Finish Cabinet Knobs",
-    "categorySlug": "knobs"
-  },
-  {
-    "id": "knobs-03",
-    "name": "Decorative Ring Knobs",
-    "category": "Knobs",
-    "description": "Decorative cabinet knob designs. Please contact Cassle Crew to confirm finishes and availability.",
-    "image": "assets/images/products/knobs-decorative-04.jpg",
-    "alt": "Decorative Ring Knobs",
-    "categorySlug": "knobs"
-  },
-  {
-    "id": "knobs-04",
-    "name": "Textured Cabinet Knobs",
-    "category": "Knobs",
-    "description": "Decorative cabinet knob designs. Please contact Cassle Crew to confirm finishes and availability.",
-    "image": "assets/images/products/cabinet-knobs-textured-01.jpg",
-    "alt": "Textured Cabinet Knobs",
-    "categorySlug": "knobs"
-  },
-  {
-    "id": "knobs-05",
-    "name": "Square Cabinet Knobs",
-    "category": "Knobs",
-    "description": "Decorative cabinet knob designs. Please contact Cassle Crew to confirm finishes and availability.",
-    "image": "assets/images/products/cabinet-knobs-square-01.jpg",
-    "alt": "Square Cabinet Knobs",
-    "categorySlug": "knobs"
-  },
-  {
-    "id": "knobs-06",
-    "name": "Classic Round Cabinet Knobs",
-    "category": "Knobs",
-    "description": "Decorative cabinet knob designs. Please contact Cassle Crew to confirm finishes and availability.",
-    "image": "assets/images/products/cabinet-knobs-mix-01.jpg",
-    "alt": "Classic Round Cabinet Knobs",
-    "categorySlug": "knobs"
-  },
-  {
-    "id": "knobs-07",
-    "name": "Gold & Black Cabinet Knobs",
-    "category": "Knobs",
-    "description": "Decorative cabinet knob designs. Please contact Cassle Crew to confirm finishes and availability.",
-    "image": "assets/images/products/knobs-gold-black-01.jpg",
-    "alt": "Gold & Black Cabinet Knobs",
-    "categorySlug": "knobs"
-  },
-  {
-    "id": "knobs-08",
-    "name": "Decorative Cabinet Knobs",
-    "category": "Knobs",
-    "description": "Decorative cabinet knob designs. Please contact Cassle Crew to confirm finishes and availability.",
-    "image": "assets/images/products/decorative-knobs-02.jpg",
-    "alt": "Decorative Cabinet Knobs",
-    "categorySlug": "knobs"
+    "alt": "CC-605 premium leg pull handle in PVD Rose Gold",
+    "categorySlug": "pull-handles",
+    "specifications": {
+      "Description": "Premium leg pull handle",
+      "Finish": "PVD Rose Gold",
+      "Size": "4, 6, 8 inches"
+    }
   }
-];
+];;
 window.CASSLE_CATEGORIES = [
   {
-    "slug": "pantry-pull-out",
-    "name": "Pantry Pull-Out",
-    "description": "Pull-out pantry storage and tall-cabinet organizers.",
+    "slug": "kitchen-accessories",
+    "name": "Kitchen Accessories",
+    "description": "Kitchen pull-outs, bottle organisers, pantry units and corner storage systems.",
     "image_id": "wardrobe-accessory-01",
-    "image": "assets/images/categories/pantry-pull-out.jpg"
+    "image": "assets/images/categories/kitchen-accessories.jpg"
   },
   {
     "slug": "wooden-kitchen-series",
@@ -1167,9 +1083,9 @@ window.CASSLE_CATEGORIES = [
     "image": "assets/images/categories/wardrobe-series.jpg"
   },
   {
-    "slug": "black-hinges",
-    "name": "Black Hinges",
-    "description": "Hinge options for cabinet and furniture applications.",
+    "slug": "hinges",
+    "name": "Hinges",
+    "description": "Concealed and soft-close cabinet hinge systems.",
     "image_id": "concealed-hinges-01",
     "image": "assets/images/categories/black-hinges.jpg"
   },
@@ -1181,18 +1097,11 @@ window.CASSLE_CATEGORIES = [
     "image": "assets/images/categories/antique-concealed-hinges.jpg"
   },
   {
-    "slug": "telescopic-slides",
-    "name": "Telescopic Slides",
-    "description": "Drawer slide hardware for smooth extension.",
+    "slug": "drawer-runner",
+    "name": "Drawer Runner",
+    "description": "Smooth-running telescopic drawer slides and runners.",
     "image_id": "wardrobe-drawer-02",
-    "image": "assets/images/categories/telescopic-slides.jpg"
-  },
-  {
-    "slug": "quadro-full-extension-slides",
-    "name": "Quadro / Full-Extension Slides",
-    "description": "Full-extension drawer movement solutions.",
-    "image_id": "wardrobe-drawer-02",
-    "image": "assets/images/categories/quadro-full-extension-slides.jpg"
+    "image": "assets/images/products/catalogue-p28-01.jpg"
   },
   {
     "slug": "drawer-slides-tandem-boxes",
@@ -1216,16 +1125,9 @@ window.CASSLE_CATEGORIES = [
     "image": "assets/images/categories/wardrobe-profiles.jpg"
   },
   {
-    "slug": "kitchen-cabinet-accessories",
-    "name": "Kitchen & Cabinet Accessories",
-    "description": "Practical fittings and accessories for kitchen and cabinet interiors.",
-    "image_id": "wardrobe-accessory-01",
-    "image": "assets/images/categories/kitchen-cabinet-accessories.jpg"
-  },
-  {
-    "slug": "door-hardware-locks",
-    "name": "Door Hardware & Locks",
-    "description": "Digital locks, door handles and door hardware from the official catalogue.",
+    "slug": "digital-door-locks",
+    "name": "Digital Door Locks",
+    "description": "Smart digital door locks with fingerprint, card and password access.",
     "image_id": "door-handle-set-01",
     "image": "assets/images/categories/door-hardware-locks.jpg"
   },
@@ -1237,10 +1139,9 @@ window.CASSLE_CATEGORIES = [
     "image": "assets/images/categories/brass-pull-handles.jpg"
   },
   {
-    "slug": "knobs",
-    "name": "Knobs",
-    "description": "Decorative cabinet and furniture knobs in different finishes and styles.",
-    "image_id": "knobs-01",
-    "image": "assets/images/categories/knobs.jpg"
+    "slug": "pull-handles",
+    "name": "Pull Handles",
+    "description": "Decorative pull handles from the Cassle Crew catalogue.",
+    "image": "assets/images/categories/pull-handles.jpg"
   }
 ];
